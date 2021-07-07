@@ -3,12 +3,46 @@
     <title>Soirée, a night of fabulous music</title>
     <link href="https://gapsoiree.com/feed.xml" rel="self" />
     <link href="https://gapsoiree.com" />
-    <updated>2021-06-23T21:06:10+10:00</updated>
+    <updated>2021-07-08T08:00:00+10:00</updated>
     <author>
         <name>Music Supporters Group</name>
     </author>
     <id>https://gapsoiree.com</id>
 
+    <entry>
+        <title>Soirée Tickets Now Available</title>
+        <author>
+            <name>Music Supporters Group</name>
+        </author>
+        <link href="https://gapsoiree.com/tickets-now-available/"/>
+        <id>https://gapsoiree.com/tickets-now-available/</id>
+
+        <updated>2021-07-08T08:00:00+10:00</updated>
+            <summary>
+                <![CDATA[
+                    This is most exciting! Tickets for Soirée, a night of fabulous music, are now available! Tell your friends and family, get them along, and also share on your social media. Entry is $25 with a bar and light refreshments available. Doors open at 6pm, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is most exciting! Tickets for Soirée, a night of fabulous music, are <a href="https://gapsoiree.com/tickets/">now available</a>! Tell your friends and family, get them along, and also share on your social media.</p>
+<figure class="post__image"><img loading="lazy"  src="https://gapsoiree.com/media/posts/13/Soiree-2021-Tickets-On-Sale-Horizontal.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-xs.jpg 300w ,https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-sm.jpg 480w ,https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-md.jpg 768w ,https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-lg.jpg 1024w ,https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-xl.jpg 1360w ,https://gapsoiree.com/media/posts/13/responsive/Soiree-2021-Tickets-On-Sale-Horizontal-2xl.jpg 1600w"  alt="" width="1200" height="630"></figure>
+<p>Entry is $25 with a bar and light refreshments available. Doors open at 6pm, and the performance starts at 7pm. Seating is allocated, so get in early to select your preferred seats.</p>
+<p>You can also read more about the wonderful and talented artists that we have performing on the night.</p>
+<ul>
+<li><a href="https://gapsoiree.com/slade-gibson-and-melissa-gill/">Slade Gibson and Melissa Gill</a></li>
+<li><a href="https://gapsoiree.com/tessitura-acapella/">Tessitura Acapella</a></li>
+<li><a href="https://gapsoiree.com/the-vocalise-duo/">The Vocalise Duo</a></li>
+<li><a href="https://gapsoiree.com/brisbane-folk-quartet/">Brisbane Folk Quartet</a></li>
+<li><a href="https://gapsoiree.com/mint/">MINT</a></li>
+<li><a href="https://gapsoiree.com/duo-key/">Duo Key</a></li>
+</ul>
+<p>While you are waiting for the performances to begin, selected senior students from The Gap State School's instrumental music program will be playing in the foyer. During interval, the talented String Quartet from The Gap State High School will be performing for your listening pleasure.</p>
+<p>This will be a COVID-safe event in compliance with Qld Health's guidelines. Check in with the <a href="https://www.covid19.qld.gov.au/check-in-qld" target="_blank" rel="noopener noreferrer">Check In Qld app</a> will be required before entry to the venue. If you do not have the app available to you, our volunteers will be able to assist you.</p>
+<p>Grab those tickets for you, your family and your friends, and we'll see you at the Soirée!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Official Launch</title>
         <author>
