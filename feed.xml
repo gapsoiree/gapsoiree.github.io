@@ -3,12 +3,36 @@
     <title>Soirée, a night of fabulous music</title>
     <link href="https://gapsoiree.com/feed.xml" rel="self" />
     <link href="https://gapsoiree.com" />
-    <updated>2021-07-08T08:00:00+10:00</updated>
+    <updated>2021-08-20T00:45:58+10:00</updated>
     <author>
         <name>Music Supporters Group</name>
     </author>
     <id>https://gapsoiree.com</id>
 
+    <entry>
+        <title>Three Weeks To Go</title>
+        <author>
+            <name>Music Supporters Group</name>
+        </author>
+        <link href="https://gapsoiree.com/three-weeks-to-go/"/>
+        <id>https://gapsoiree.com/three-weeks-to-go/</id>
+
+        <updated>2021-08-20T00:45:58+10:00</updated>
+            <summary>
+                <![CDATA[
+                    It is now only three more weeks until the Soirée, a night of fabulous music in The Gap with fantastic groups of local musicians performing on Saturday 11th September. Tickets are now available, so make sure to book soon to get the seats of your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It is now only three more weeks until the Soirée, a night of fabulous music in The Gap with fantastic groups of local musicians performing on Saturday 11th September. Tickets are <a href="https://gapsoiree.com/tickets/">now available</a>, so make sure to book soon to get the seats of your choice.</p>
+<p>Queenslanders really came together in the last few weeks to help keep community spread from the recent COVID outbreaks down to a minimum, and the results have spoken for themselves. Restrictions are now beginning to ease, so we are still confident that the Soirée will not be impacted. We were already following Qld Health's advice on being COVID Safe, and continue to monitor the latest advice. The ticketing is for allocated seating to keep in line with this advice, and we have also enabled a feature that the ticketing service provides of automatically blocking a seat between separate bookings. This will help to maintain social distancing between groups of attendees while seated. It won't allow us to get to 100% capacity (that would be a nice problem to have), but will help to keep some people more comfortable about being in an indoor venue at this time.</p>
+<p>Masks will still likely be mandatory while indoors, and if that is the case we will be requiring the use of masks while in the venue. Even if these restrictions are relaxed before then, we would still encourage the use of masks.</p>
+<p>So come out on Saturday 11th September to celebrate local music and catch up with friends, family and neighbours.</p>
+<p>See you at the Soirée!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Soirée Tickets Now Available</title>
         <author>
