@@ -3,12 +3,34 @@
     <title>Soirée, a night of fabulous music</title>
     <link href="https://gapsoiree.com/feed.xml" rel="self" />
     <link href="https://gapsoiree.com" />
-    <updated>2021-11-10T21:33:52+10:00</updated>
+    <updated>2022-02-11T00:54:47+10:00</updated>
     <author>
         <name>Music Supporters Group</name>
     </author>
     <id>https://gapsoiree.com</id>
 
+    <entry>
+        <title>Flashback to 2021</title>
+        <author>
+            <name>Music Supporters Group</name>
+        </author>
+        <link href="https://gapsoiree.com/flashback-to-2021/"/>
+        <id>https://gapsoiree.com/flashback-to-2021/</id>
+
+        <updated>2022-02-11T00:54:47+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Preparations for the 2022 Soirée on Saturday 4th June are now underway. We almost have a full program of musicians and groups ready to perform, and it is going to be another fabulous show. In the lead-up to the next Soirée, we have posted a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Preparations for the 2022 Soirée on Saturday 4th June are now underway. We almost have a full program of musicians and groups ready to perform, and it is going to be another fabulous show.</p>
+<p>In the lead-up to the next Soirée, we have posted a <a href="https://gapsoiree.com/photos-from-2021/">gallery of photos</a> from the last event. Many great memories from a fantastic night if you were there, and if you weren't it is a good preview of what you will see when you come to the next one.</p>
+<p>Enjoying seeing the last Soirée, and we will see you at the next Soirée!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Next Soirée?</title>
         <author>
